@@ -1,0 +1,6 @@
+D:\registry\registry\bin\Debug\registry.exe.config
+D:\registry\registry\bin\Debug\registry.exe
+D:\registry\registry\bin\Debug\registry.pdb
+D:\registry\registry\obj\Debug\registry.csprojResolveAssemblyReference.cache
+D:\registry\registry\obj\Debug\registry.exe
+D:\registry\registry\obj\Debug\registry.pdb
